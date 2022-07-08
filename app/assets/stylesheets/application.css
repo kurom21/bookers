@@ -1,0 +1,60 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: -internal-center;
+}
+
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+}
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  box-sizing: border-box;
+}
+
+.text {
+  margin-bottom: 10px;
+}
